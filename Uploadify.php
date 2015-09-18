@@ -87,7 +87,7 @@ class Uploadify extends InputWidget{
         }
         $sessionIdName = $session->getName();
         $sessionIdValue = $session->getId();
-        $this->jsOptions = ArrayHelper::merge($this->jsOptionsm,[
+        $this->jsOptions = ArrayHelper::merge($this->jsOptions,[
             'formData' => [
                 $sessionIdName => $sessionIdValue,
                 $csrfParam => $csrfValue,
