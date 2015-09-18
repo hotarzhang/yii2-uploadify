@@ -1,0 +1,21 @@
+{
+    "name": "hoter/yii2-uploadify",
+    "description": "yii2-uploadify",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "hoer",
+            "email": "hotar.zhang@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "hoter\\uploadify\\": ""
+        }
+    }
+}
