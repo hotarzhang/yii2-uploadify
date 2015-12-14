@@ -24,10 +24,10 @@ Released under the MIT License <http://www.opensource.org/licenses/mit-license.p
 	);
 	background-position: center top;
 	background-repeat: no-repeat;
-	-webkit-border-radius: 30px;
+	/*-webkit-border-radius: 30px;
 	-moz-border-radius: 30px;
-	border-radius: 30px;
-	border: 2px solid #808080;
+	border-radius: 30px;*/
+	border: 1px solid #808080;
 	color: #FFF;
 	font: bold 12px Arial, Helvetica, sans-serif;
 	text-align: center;
